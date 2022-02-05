@@ -1,0 +1,197 @@
+body{
+    background-image: url(../image/resume.jpg);
+    background-position: top center;
+    height: 1750px;
+    font-family: Oswald;
+}
+ .container{
+    width: 1142px;
+    margin: 0 auto;
+}
+.col-1{
+  width: 8.33%;
+}
+.col-2{ 
+  width: 16.66% ;
+}
+.col-3{
+  width: 25%;
+}
+.col-4{
+  width: 33.33%;
+}
+.col-5{
+  width: 41.66%;
+}
+.col-6{
+  width: 50%;
+}
+.col-7{
+  width: 58.33%;
+}
+.col-8{
+  width: 66.66%;
+}
+.col-9{
+  width: 75%;
+}
+.col-10{
+  width: 83.33%;
+}
+.col-11{
+  width: 91.66%;
+}
+.col-12{
+  width: 100%;
+}
+
+.fc{
+    display: flex;
+}
+.header{
+background-color: #323639;
+height: 259px;
+font-family: Old Standard TT;
+}
+.icon img{
+    width: 150px;
+    height: 150px;
+    border-radius: 76px;
+    padding-top: 10px;
+}
+.fc h1{
+font-size: 60px;
+color: #fff;
+font-weight: bold;
+padding-bottom: 5px;
+padding-top: 41px;
+}
+.fc h3{
+    color: #397c97;
+    font-size: 27px;
+}
+.header p {
+    font-size: 26px;
+    color: white;
+    padding-top: 10px; 
+  }
+.fc img{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    padding: 30px 0px;
+}
+.contect{
+background-color: #222a33;
+height: 60px;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+    font-size: 30px;
+}
+.contect a{
+    color: white;
+    text-decoration: none;
+    padding-right: 41px;
+  }
+  .contect i{
+padding-right: 10px;
+  }
+.main-container{
+background-color: white;
+height: 1489px;
+}
+
+.left-section{
+    /* width: 50%; */
+}
+.right-section{
+    /* width: 50%; */
+    padding-left: 67px;
+}
+.flex-content{
+    display: flex;
+}
+/* main section */
+.content-section h2 {
+    text-decoration: underline;
+    color: #3e8593;
+    font-size: 32px;
+    font-weight: bold;
+    padding-top: 30px;
+}
+.main-container h3 {
+    color: black;
+    font-weight: bold;
+    font-size:  29px;
+    padding-top: 20px;
+}
+.content-type-1-section-1 p {
+    font-size: 29px;
+    padding: 10px 0px;
+}
+.sub-highlight{
+    font-style: italic;
+    font-size: 18px;
+    word-spacing: 358px;
+    color: #61aabf;
+    display: block;
+  }
+  .sub-highlight1{
+    font-style: italic;
+    font-size: 18px;
+    word-spacing: 431px;
+    color: #61aabf;
+   }
+   .sub-highlight2{
+    font-style: italic;
+    font-size: 18px;
+    word-spacing: 434px;
+    color: #61aabf;
+  }
+  .sub-highlight3{
+    font-style: italic;
+    font-size: 18px;
+    word-spacing: 338px;
+    color: #61aabf;
+  }
+  .main-container ul li{
+    font-size: 25px;
+    list-style-type: disc;
+    list-style-position: inside;
+  }
+  .sub-highlight4{
+    font-style: italic;
+    font-size: 18px;
+    word-spacing: 323px;
+    color: #61aabf;
+  }
+  .sub-highlight-1{
+    font-style: italic;
+    font-size: 18px;
+    color: #61aabf;    
+  }
+  .blocks ul li{
+    display: inline-block;
+    border: 7px solid #989da6;
+    border-radius: 25px;
+    background-color: #989da6;
+    color: white;
+    margin: 8px 19px 4px 6px;
+  }
+  .blocks-1 ul li{
+    border-radius: 10px;
+    padding: 5px ;
+    color: black;
+    margin: 16px 10px 22px 0px;
+  }
+  .content-type-1-section-1 h6 {
+    font-size: 18px;
+    font-style: italic;
+    color: #807e7e;
+    padding-bottom: 10px;
+  }
+.content-type{
+  display: flex;
+  justify-content: space-between;
+}
